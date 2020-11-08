@@ -1,3 +1,3 @@
-# WQEQWEQWE
+# asdasd
 
 CODEFORCES problem in C++
